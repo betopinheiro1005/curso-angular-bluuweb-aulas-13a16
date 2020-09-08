@@ -1,3 +1,7 @@
+# curso-angular=bluuweb-rotas
+
+Curso de Angular - Bluuweb - Ignácio Gutierrez - Aulas 13 a 16 - 
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
