@@ -1,6 +1,6 @@
-# curso-angular=bluuweb-rotas
+# curso-angular-bluuweb-aulas-13a16
 
-Curso de Angular - Bluuweb - Ignácio Gutierrez - Aulas 13 a 16 - 
+Curso de Angular - Bluuweb - Ignácio Gutierrez - Aulas 13 a 16 (Rotas) 
 
 # MyApp
 
