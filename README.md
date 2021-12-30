@@ -1,31 +1,20 @@
-# curso-angular-bluuweb-aulas-13a16
+# Curso Angular Desde Cero - Aulas 13 a 16
+## Bluuweb (Ignácio Gutierrez)
 
-Curso de Angular - Bluuweb - Ignácio Gutierrez - Aulas 13 a 16 (Rotas) 
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=mog8EKQX5HI&list=PLPl81lqbj-4JaLibWSbTVrYTyHDadppKq)
 
-# MyApp
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Aula 01 - Instalação
+Aula 02 - Fundamentos de TypeScript - parte  
+Aula 03 - Fundamentos de TypeScript - parte 2  
+Aula 04 - Fundamentos de TypeScript - parte 3  
+Aula 06 - Instalação do primeiro projeto  
+Aula 07 - Olá mundo e primeiros conceitos chaves  
+Aula 08 - Como criar componentes com CLI  
+Aula 09 - Diretiva ngIf  
+Aula 10 - Diretiva ngIf/Else  
+Aula 11 - Diretiva ngClass  
+Aula 12 - Diretiva ngFor  
+Aula 13 - Configurando rotas (Parte 1)  
+Aula 14 - Configurando rotas (Parte 2)  
+Aula 15 - Fundamentos - Serviços  
+Aula 16 - Rotas dinâmicas  
